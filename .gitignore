@@ -1,0 +1,17 @@
+postgredb/
+redisdb/
+.venv/
+.idea/
+*.pyc
+*.log
+app/db.sqlite3
+app/media
+postgresdb/
+redisdb/
+__pycache__/
+migrations/
+venv/
+db/
+.DS_Store
+_nginx/certs/
+_nginx/html/  
